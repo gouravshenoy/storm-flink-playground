@@ -1,0 +1,4 @@
+worker-id: 06bd53e7-2297-411a-b0b0-37240e3a5434
+logs.users: []
+logs.groups: []
+topology.submitter.user: goshenoy
